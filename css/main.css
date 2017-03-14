@@ -1,0 +1,33 @@
+body {
+	background-color: #FFEDE3;
+	font-family: 'Allura', cursive;
+}
+
+.container {
+	text-align: center;
+}
+
+.border {
+	margin: 25px 0;
+	border: 1px solid #7F6E7F;
+}
+
+#title {
+	text-align: center;
+	font-size: 75px;
+	margin: 20px auto;
+}
+
+h2 {
+	font-size: 40px;
+}
+
+h3 {
+	padding: 0;
+	margin: 5px;
+}
+
+button {
+	font-size: 30px;
+	background-color: #FFA5BC;
+}
