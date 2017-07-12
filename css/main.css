@@ -10,6 +10,7 @@ body {
 .border {
 	margin: 25px 0;
 	border: 1px solid #7F6E7F;
+	border-radius: 20px;
 }
 
 #title {
@@ -30,4 +31,5 @@ h3 {
 button {
 	font-size: 30px;
 	background-color: #FFA5BC;
+	border-radius: 20px;
 }
