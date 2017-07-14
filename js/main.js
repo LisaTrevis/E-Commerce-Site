@@ -13,7 +13,7 @@ function addItem (description, image, type, color, size) {
 }
 
 // Add objects as variables
-var greyPlaidSkirt = new addItem("Grey Plaid Skirt","img/greyskirt.jpg", "Skirt", "Grey", "28")
+var greyPlaidSkirt = new addItem("Grey Plaid Skirt","img/greyskirt.jpg", "Skirt", "Grey", "24")
 var burgundySkirt = new addItem("Burgundy Twill Skirt", "img/burgundyskirt.jpg", "Skirt", "Burgundy", "22")
 var tealDress = new addItem("Satin Teal Dress", "img/tealdress.jpg", "Dress", "Teal", "18")
 var blackDress = new addItem("Black Twist Dress", "img/blackdress.jpg", "Dress", "Black", "1X")

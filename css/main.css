@@ -1,5 +1,5 @@
 body {
-	background-color: #FFEDE3;
+	background-color: #FFFEFF;
 	font-family: 'Allura', cursive;
 }
 
@@ -11,12 +11,17 @@ body {
 	margin: 25px 0;
 	border: 1px solid #7F6E7F;
 	border-radius: 20px;
+	background-color: #EDEBD7;
 }
 
 #title {
 	text-align: center;
 	font-size: 75px;
 	margin: 20px auto;
+	background-color: #EDEBD7;
+	width: 50%;
+	border: 1px solid #7F6E7F;
+	border-radius: 10px;
 }
 
 h2 {
@@ -30,6 +35,6 @@ h3 {
 
 button {
 	font-size: 30px;
-	background-color: #FFA5BC;
-	border-radius: 20px;
-}
+	background-color: #FFC2D1;
+/*	border-radius: 10px;
+*/}
